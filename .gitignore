@@ -1,0 +1,5 @@
+/target/
+BongoDuck.AppDir/
+*.AppImage
+*.exe
+*.zip
